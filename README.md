@@ -1,2 +1,2 @@
-# payton-exercises
- payton tutorial 
+# pyhton-exercises
+ python tutorial 
