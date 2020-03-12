@@ -1,2 +1,2 @@
-# pyhton-exercises
+# python-exercises
  python tutorial 
