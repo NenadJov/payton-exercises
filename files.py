@@ -32,3 +32,13 @@ with open("bear1.txt", "r") as file:
 with open("bear2.txt", "a") as file:
     file.write(content)
 
+with open("data.txt", "a+") as file:
+    file.seek(0)
+    content = file.read()
+    file.seek(0)
+    file.write(content)
+    file.write(content)
+    
+#print(content)
+
+
